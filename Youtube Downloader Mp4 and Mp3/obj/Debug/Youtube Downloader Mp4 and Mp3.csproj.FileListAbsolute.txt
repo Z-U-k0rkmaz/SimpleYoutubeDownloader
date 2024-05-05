@@ -1,0 +1,18 @@
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\Youtube Downloader Mp4 and Mp3.exe.config
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\Youtube Downloader Mp4 and Mp3.exe
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\Youtube Downloader Mp4 and Mp3.pdb
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\Jurassic.dll
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\libvideo.dll
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\Jurassic.xml
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube Downloader Mp4 and Mp3.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube Downloader Mp4 and Mp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube_Downloader_Mp4_and_Mp3.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube_Downloader_Mp4_and_Mp3.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube Downloader Mp4 and Mp3.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube Downloader Mp4 and Mp3.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube Downloader Mp4 and Mp3.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube Downloader Mp4 and Mp3.exe
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\obj\Debug\Youtube Downloader Mp4 and Mp3.pdb
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Youtube Downloader Mp4 and Mp3\Youtube Downloader Mp4 and Mp3\bin\Debug\MediaToolkit.dll
